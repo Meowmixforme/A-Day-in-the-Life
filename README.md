@@ -40,7 +40,6 @@ Your performance in these mini-games affects your overall score and influences t
 - Mike Pitchers
 - Ashiqul Islam
 - Aqib Ali
-- [Add further contributors as needed]
 
 ## Acknowledgements
 
