@@ -19,6 +19,12 @@ Your performance in these mini-games affects your overall score and influences t
 - **Score Tracking:** Your decisions and correct answers contribute to your final score and feedback.
 - **Replayability:** Different choices lead to different challenges and endings.
 
+
+
+<img width="500" height="500" alt="Screenshot 2025-07-28 102958" src="https://github.com/user-attachments/assets/fed5a48f-f410-4b55-9e73-29ec1e868c90" />
+
+
+
 ## How to Play
 
 1. Ensure you have [Python 3](https://www.python.org/downloads/) installed on your system.
