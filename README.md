@@ -8,6 +8,10 @@ The game simulates various situations a typical university student might encount
 
 Your performance in these mini-games affects your overall score and influences the course and outcome of your day.
 
+
+<img width="1024" height="1024" alt="freepik__the-style-is-candid-image-photography-with-natural__51052" src="https://github.com/user-attachments/assets/e2f56c5f-c298-46b1-a789-2b12052c8305" />
+
+
 ## Features
 
 - **Branching Narrative:** Make choices that affect the story and the mini-games you encounter.
